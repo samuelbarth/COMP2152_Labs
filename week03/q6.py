@@ -62,3 +62,4 @@ for product, details in inventory.items():
     price = details[0]
     quantity = details[1]
     print(product + " - Price: $" + str(price) + ", Quantity: " + str(quantity))
+    
